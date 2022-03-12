@@ -1,0 +1,1 @@
+eureka:  client:    fetch-registry: false    register-with-eureka: falseserver:  host: localhost  port: 8761spring:  cloud:    inetutils:      timeout-seconds: 10
